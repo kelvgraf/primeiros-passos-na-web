@@ -42,6 +42,7 @@ Assim como o valor relative, o absolute precisa dessas propriedades extras de co
 ```
 ## Fixed
 
+oioioi
 O valor fixed, como o próprio nome sugere se posiciona de forma fixa na página, isso significa que ele sempre ficará no mesmo lugar ainda que rolemos a página. Assim como o relative, e absolute, as propriedades top, right, bottom e left também podem ser utilizadas.
 ```css
 .elemento {
